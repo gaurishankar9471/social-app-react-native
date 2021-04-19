@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "891087574422",
+    "project_id": "rn-social-app-fa27c",
+    "storage_bucket": "rn-social-app-fa27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891087574422:android:145b4d346b8b0be7c039b7",
+        "android_client_info": {
+          "package_name": "com.sosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891087574422-2n71qk3tnfdkue82dj4djj6pe53rumu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLQrNPiLAwzXIcx08Zq7Jxa9Q4obfRdDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891087574422-2n71qk3tnfdkue82dj4djj6pe53rumu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "891087574422-g2cvukf625hronji27ocm11ds2v58g20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sosApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
